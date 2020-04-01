@@ -83,23 +83,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="example1.cpp" />
-    <ClCompile Include="example2.cpp" />
-    <ClCompile Include="example3.cpp" />
-    <ClCompile Include="example4.cpp" />
-    <ClCompile Include="Expected.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Protocol.cpp" />
-    <ClCompile Include="Channel.cpp" />
-    <ClCompile Include="Result.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="result.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="examples.h" />
-    <ClInclude Include="Expected.h" />
-    <ClInclude Include="Protocol.h" />
-    <ClInclude Include="Channel.h" />
-    <ClInclude Include="Result.h" />
+    <ClInclude Include="result.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
